@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 ¡Hola! Soy Eusebio María Y les doy la bienvenida a mi perfil de GitHub!
+# 👋 ¡Hola! Soy Eusebio María y les doy la bienvenida a mi perfil de GitHub!
 
 **💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) | 🌐 Desarrollo web | ⚽ Fútbol**
 
